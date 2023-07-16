@@ -5,7 +5,7 @@ from selenium.webdriver.edge.service import Service
 from selenium.webdriver.common.by import By
 import os
 """
-作者 薛明昊
+作者 XEEE
 时间 203-7-17
 操作系统 windows
 用途 爬取菠萝包轻小说的内容，需要selenium进行解密。
